@@ -1,0 +1,14 @@
+{
+  "name": "zeno",
+  "version": "1.0.0",
+  "description": "webpack plugin zip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zepeng.cai",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^2.1.1"
+  }
+}
